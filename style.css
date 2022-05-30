@@ -17,7 +17,7 @@
   font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
 
   .header { 
     text-align: center;
@@ -50,7 +50,7 @@
 .list__input.task,
 .list__edit,
 .list__delete,
-.section__button{
+.section__button {
   outline: none;
 }
 .list__edit,
